@@ -8,7 +8,7 @@
 
 <h2>About</h2>
 
-This is my second discord theme!
+E
 Its goal is to mimic the look and feel of the VaultTec(r) terminals from Fallout 4!
 
 <h2>Installation</h2>
